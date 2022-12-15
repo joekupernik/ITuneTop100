@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ITuneTop100/static/css/main.0815621f.css",
+    "main.js": "/ITuneTop100/static/js/main.a7c665c9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ITuneTop100/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ITuneTop100/index.html",
+    "main.0815621f.css.map": "/ITuneTop100/static/css/main.0815621f.css.map",
+    "main.a7c665c9.js.map": "/ITuneTop100/static/js/main.a7c665c9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ITuneTop100/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0815621f.css",
+    "static/js/main.a7c665c9.js"
+  ]
+}
